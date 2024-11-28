@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Challenge project\Financial budgeting app proto 1.cs" />
+    <Compile Remove="Challenge project\GPA calculator.cs" />
+    <Compile Remove="Challenge project\HurricaneModularized.cs" />
+    <Compile Remove="Challenge project\My favortie saying.cs" />
+    <Compile Remove="Challenge project\PayRoll.cs" />
+    <Compile Remove="Challenge project\Program.cs" />
+    <Compile Remove="Challenge project\ResortPrice.cs" />
+    <Compile Remove="Challenge project\TakeHomePayApp.cs" />
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Program - Copy %282%29 - Copy.cs" />
+    <Compile Remove="Program - Copy %282%29.cs" />
+    <Compile Remove="Program - Copy %283%29.cs" />
+    <Compile Remove="Program - Copy.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="textbook problems\1.cs" />
+    <Compile Remove="textbook problems\Account check.cs" />
+    <Compile Remove="textbook problems\Adding money by not hardwiring.cs" />
+    <Compile Remove="textbook problems\array searching binary.cs" />
+    <Compile Remove="textbook problems\Average of list.cs" />
+    <Compile Remove="textbook problems\Caluclatior inches to cm.cs" />
+    <Compile Remove="textbook problems\Creditcardlimit.cs" />
+    <Compile Remove="textbook problems\debugg.cs" />
+    <Compile Remove="textbook problems\Degbugg that works but mindtap is dumb.cs" />
+    <Compile Remove="textbook problems\hurrican embedded if else.cs" />
+    <Compile Remove="textbook problems\Linq array sorting.cs" />
+    <Compile Remove="textbook problems\Name match.cs" />
+    <Compile Remove="textbook problems\Program - Copy.cs" />
+    <Compile Remove="textbook problems\Sales transactions with classes.cs" />
+    <Compile Remove="textbook problems\While loop indefeint.cs" />
+    <Compile Remove="textbook problems\While loop temp Important.cs" />
+    <Compile Remove="textbook problems\word count if.cs" />
+    <Compile Remove="textbook problems\Zipcode delivery searching by array index.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="textbook problems\While loop to create indefient loop" />
+    <None Remove="While loop to create indefient loop" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="textbook problems\" />
+  </ItemGroup>
+
+</Project>
